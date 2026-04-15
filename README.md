@@ -99,6 +99,8 @@ Prerequisites  and Setup:
 
 3.) EFI-KGP-public-v.1.1.5-OCLP-Intel
 
+## The ZIP file is available in Releases.
+
 
 For OCLP 3.0.0 Nightly with Broadcom-Wi-Fi, use EFI-KGP-public-v.1.1.5-OCLP-Broadcom. For OCLP 3.0.0 Nightly with Intel-Wi-Fi, use EFI-KGP-public-v.1.1.5-OCLP-Intel (see update and link at the bottom of this post). 
 
