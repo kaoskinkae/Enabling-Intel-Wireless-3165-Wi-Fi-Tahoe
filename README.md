@@ -5,13 +5,20 @@ https://github.com/kgp-macPro/OCLP-lzhoang2801-amfipassbeta
 This thread discusses the experimental OCLP 3.0.0 Nightly fork by lzhoang2801 (development currently on hold), restoring the following functionality on macOS Tahoe 26.x:
  
 1.) modern audio (AppleHDA) -- functional  
+
 2.) modern Wi-Fi -- functional  
+
 3.) AWDL stack:
+
 - AirDrop -- fully functional, bidirectional  
-- AirPlay -- functional  
-- Screen Mirroring -- functional  
+- AirPlay -- functional
+
+- Screen Mirroring -- functional
+  
 4.) Continuity:
-- Handoff -- functional (e.g. Mail, Notes, Safari)  
+  
+- Handoff -- functional (e.g. Mail, Notes, Safari)
+
 - Sidecar -- currently not functional  
 
 The fork is not an official upstream OCLP release and is not affiliated with Dortania
