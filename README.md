@@ -110,7 +110,6 @@ Use EFI-KGP-public-v.1.1.5-OCLP-Broadcom. For OCLP 3.0.0 Nightly with Intel-Wi
 Use EFI-KGP-public-v.1.1.5-OCLP-Intel (see update and link at the bottom of this post). 
 
 
- 
 For everybody with Intel W-Fi chipsets: Explanation of the SSDT and DeviceProperties setup
 In this setup, it is important to clearly distinguish between the roles of DeviceProperties and the SSDT.
 The actual “conversion” to a Broadcom-compatible device is performed via DeviceProperties (Broadcom spoofing). This is the key mechanism that allows macOS to properly attach and initialize the Wi-Fi stack.
