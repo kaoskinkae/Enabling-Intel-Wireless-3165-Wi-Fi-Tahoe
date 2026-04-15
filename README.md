@@ -93,7 +93,6 @@ Prerequisites  and Setup:
 
 **https://github.com/kaoskinkae/AMFIPass**
 
-## All settings above (1 to 5) can also be gathered from my EFI-Folder distribution:
 
 ### The Zip-file contains three EFI-Folders: 
 
