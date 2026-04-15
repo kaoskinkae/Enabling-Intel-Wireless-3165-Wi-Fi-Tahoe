@@ -1,5 +1,10 @@
 # Enabling Intel Wireless 3165 Wi-Fi on macOS 26.4 and 26.5 beta 2 Tahoe
 
+<img width="881" height="629" alt="Captura de pantalla 2026-04-15 a las 10 07 32" src="https://github.com/user-attachments/assets/ac58604a-8d15-4fbd-9705-4cd6f9abac03" />
+<img width="844" height="677" alt="Captura de pantalla 2026-04-15 a las 10 07 52" src="https://github.com/user-attachments/assets/84369d92-6731-4286-a504-bf9e3b70c420" />
+<img width="514" height="298" alt="Captura de pantalla 2026-04-15 a las 10 08 07" src="https://github.com/user-attachments/assets/b73ce781-9715-4633-a0b7-c6c1920fbbb0" />
+
+
 https://github.com/kgp-macPro/OCLP-lzhoang2801-amfipassbeta
 
 This thread discusses the experimental OCLP 3.0.0 Nightly fork by lzhoang2801 (development currently on hold), restoring the following functionality on macOS Tahoe 26.x:
