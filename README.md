@@ -64,11 +64,17 @@ Prerequisites  and Setup:
  <img width="1185" height="197" alt="Captura de pantalla 2026-04-15 a las 9 26 57" src="https://github.com/user-attachments/assets/05607768-c9b4-48fa-880e-f69a0085c1dd" />
 
 11 Big Sur Minkernel 20.0.0 MaxKernel 20.99.99
+
 12 monterey Minkernel 21.0.0 MaxKernel 21.99.99
+
 13 ventura Minkernel 22.0.0. MaxKernel 22.99.99
+
 14 sonoma Minkernel 23.0.0. MaxKernel 23.99.99
+
 15 sequoia Minkernel 24.0.0  MaxKernel 24.99.99
+
 16 Tahoa Minkernel 25.0.0. MaxKernel 25.99.99
+
 
 All settings above (1 to 5) can also be gathered from my EFI-Folder distribution:
 
