@@ -14,6 +14,7 @@ The tests have been successfully performed on this equipment; my guides are alwa
 https://github.com/kgp-macPro/OCLP-lzhoang2801-amfipassbeta
 
 This thread discusses the experimental OCLP 3.0.0 Nightly fork by lzhoang2801 (development currently on hold), restoring the following functionality on macOS Tahoe 26.x:
+
  
 1.) modern audio (AppleHDA) -- functional  
 
