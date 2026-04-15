@@ -1,7 +1,8 @@
 # Enabling Intel Wireless 3165 Wi-Fi on macOS 26.4 and 26.5 beta 2 Tahoe
 
-Old2: | Pavilion HP2B47 |  i5-6400 CPU @ 3.30GHz Skylake | Intel HD Grafic 530 | imac 17.1  |OpenCore 1.0.? 
+| Pavilion HP2B47 |  i5-6400 CPU @ 3.30GHz Skylake | Intel HD Grafic 530 | imac 17.1  |OpenCore 1.0.7 
 | SSD macOS 26 Tahoe | Adapter PCIe 4,0x16 a M.2 4xNVME SomnAmbulist 250G macOS Tahoe beta | Adapter Netac NVME SSD 480 GB Windows 11 25h2 | HDD SATA 3 1T DATE |  Wireless 3165 / BCM_4350C2 
+
 The tests have been successfully performed on this equipment; my guides are always tested before being published.
 
 
