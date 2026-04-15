@@ -73,6 +73,7 @@ Prerequisites  and Setup:
  <img width="1184" height="133" alt="Captura de pantalla 2026-04-15 a las 9 31 34" src="https://github.com/user-attachments/assets/034a9b6a-81ca-49a6-b92f-570e186487a4" />
 
  <img width="1185" height="197" alt="Captura de pantalla 2026-04-15 a las 9 26 57" src="https://github.com/user-attachments/assets/05607768-c9b4-48fa-880e-f69a0085c1dd" />
+ 
 
 11 Big Sur Minkernel 20.0.0 MaxKernel 20.99.99
 
@@ -88,8 +89,7 @@ Prerequisites  and Setup:
 
 
 
-
-All settings above (1 to 5) can also be gathered from my EFI-Folder distribution:
+#All settings above (1 to 5) can also be gathered from my EFI-Folder distribution:
 
 The Zip-file contains three EFI-Folders: 
 
