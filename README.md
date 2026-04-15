@@ -65,8 +65,6 @@ Prerequisites  and Setup:
 5.) Same com.apple.iokit.IOSkywalkFamily replacement like under Sequoia
 
 
-
-
  <img width="1118" height="98" alt="Captura de pantalla 2026-04-15 a las 9 27 18" src="https://github.com/user-attachments/assets/0e69d9f6-4d14-4dd8-9d9f-ce7ea2a6367d" />
 
 
@@ -105,7 +103,11 @@ Prerequisites  and Setup:
 ## The ZIP file is available in Releases.
 
 
-For OCLP 3.0.0 Nightly with Broadcom-Wi-Fi, use EFI-KGP-public-v.1.1.5-OCLP-Broadcom. For OCLP 3.0.0 Nightly with Intel-Wi-Fi, use EFI-KGP-public-v.1.1.5-OCLP-Intel (see update and link at the bottom of this post). 
+For OCLP 3.0.0 Nightly with Broadcom-Wi-Fi.
+
+Use EFI-KGP-public-v.1.1.5-OCLP-Broadcom. For OCLP 3.0.0 Nightly with Intel-Wi-Fi
+
+Use EFI-KGP-public-v.1.1.5-OCLP-Intel (see update and link at the bottom of this post). 
 
 Happy that it worked out. 👍
 I’ve reviewed your EFI and made some adjustments (attached below). I also added all kexts for Intel Bluetooth. 
