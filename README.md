@@ -37,9 +37,6 @@ Prerequisites  and Setup:
 5.) Same com.apple.iokit.IOSkywalkFamily replacement like under Sequoia
  
 
-https://www.insanelymac.com/forum/files/file/1076-universal-efi-for-all-recent-macos-versions-including-sequoia-and-tahoe/?do=download&csrfKey=2832ff358e827694c029a98e019bc1ba
-
-
 All settings above (1 to 5) can also be gathered from my EFI-Folder distribution:
 
 The Zip-file contains three EFI-Folders: 1.) EFI-KGP-public-v.1.1.5-BCMC 2.) EFI-KGP-public-v.1.1.5-OCLP-Broadcom 3.) EFI-KGP-public-v.1.1.5-OCLP-Intel
