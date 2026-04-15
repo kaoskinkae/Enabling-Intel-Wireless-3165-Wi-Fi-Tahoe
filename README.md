@@ -11,7 +11,7 @@
 <img width="514" height="298" alt="Captura de pantalla 2026-04-15 a las 10 08 07" src="https://github.com/user-attachments/assets/b73ce781-9715-4633-a0b7-c6c1920fbbb0" />
 
 
-https://github.com/kgp-macPro/OCLP-lzhoang2801-amfipassbeta
+*https://github.com/kgp-macPro/OCLP-lzhoang2801-amfipassbeta*
 
 This thread discusses the experimental OCLP 3.0.0 Nightly fork by lzhoang2801 (development currently on hold), restoring the following functionality on macOS Tahoe 26.x:
 
@@ -45,7 +45,7 @@ Credits
 Prerequisites  and Setup:
 
  
-1.) For OCLP 3.0.0 Nightly (amfipassbeta variant) enable AMFIPass.kext and use boot argument "-amfipassbeta".
+1.) For OCLP 3.0.0 Nightly (amfipassbeta variant) enable AMFIPass.kext and use boot argument **"-amfipassbeta"**
      For OCLP 3.0.0 Nightly enable or disable AMFIPass.kext but always use boot argument "amfi=0x80".
   
  
