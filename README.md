@@ -76,6 +76,7 @@ The actual “conversion” to a Broadcom-compatible device is performed via De
 The SSDT serves a different purpose. It injects an ARPT device at the correct ACPI path of the Wi-Fi controller and provides macOS-specific properties via _DSM (such as built-in, AAPL,slot-name, device_type, model, and name). This ensures that the device is properly represented within ACPI and IORegistry.
 In summary:
 
+
 -> DeviceProperties → performs the Broadcom spoofing (functional requirement)
 
 -> SSDT → injects ARPT and ensures proper integration and representation (structural requirement)
