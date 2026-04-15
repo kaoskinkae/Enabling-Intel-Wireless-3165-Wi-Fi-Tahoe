@@ -53,7 +53,13 @@ Prerequisites  and Setup:
 
 All settings above (1 to 5) can also be gathered from my EFI-Folder distribution:
 
-The Zip-file contains three EFI-Folders: 1.) EFI-KGP-public-v.1.1.5-BCMC 2.) EFI-KGP-public-v.1.1.5-OCLP-Broadcom 3.) EFI-KGP-public-v.1.1.5-OCLP-Intel
+The Zip-file contains three EFI-Folders: 
+
+1.) EFI-KGP-public-v.1.1.5-BCMC 
+
+2.) EFI-KGP-public-v.1.1.5-OCLP-Broadcom 
+
+3.) EFI-KGP-public-v.1.1.5-OCLP-Intel
 
 For OCLP 3.0.0 Nightly with Broadcom-Wi-Fi, use EFI-KGP-public-v.1.1.5-OCLP-Broadcom. For OCLP 3.0.0 Nightly with Intel-Wi-Fi, use EFI-KGP-public-v.1.1.5-OCLP-Intel (see update and link at the bottom of this post). 
 
