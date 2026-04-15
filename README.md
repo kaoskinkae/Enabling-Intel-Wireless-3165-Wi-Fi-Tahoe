@@ -27,14 +27,19 @@ Prerequisites  and Setup:
  
 1.) For OCLP 3.0.0 Nightly (amfipassbeta variant) enable AMFIPass.kext and use boot argument "-amfipassbeta".
      For OCLP 3.0.0 Nightly enable or disable AMFIPass.kext but always use boot argument "amfi=0x80".
+  
  
 2.) Securebootmodel = disabled
+
  
 3.) csr-active-config = 03080000
+
  
 4.) AppleVTD disabled, i.e. DisableIOMapper=true
+
  
 5.) Same com.apple.iokit.IOSkywalkFamily replacement like under Sequoia
+
  
 
 All settings above (1 to 5) can also be gathered from my EFI-Folder distribution:
