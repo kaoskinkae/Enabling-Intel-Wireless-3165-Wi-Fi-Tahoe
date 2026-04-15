@@ -109,11 +109,7 @@ Use EFI-KGP-public-v.1.1.5-OCLP-Broadcom. For OCLP 3.0.0 Nightly with Intel-Wi
 
 Use EFI-KGP-public-v.1.1.5-OCLP-Intel (see update and link at the bottom of this post). 
 
-Happy that it worked out. 👍
-I’ve reviewed your EFI and made some adjustments (attached below). I also added all kexts for Intel Bluetooth. 
-I also removed your SMBIOS credentials so the EFI can be safely shared publicly.
-Feel free to test it and let me know how it works on your system. 👍
- 
+
  
 For everybody with Intel W-Fi chipsets: Explanation of the SSDT and DeviceProperties setup
 In this setup, it is important to clearly distinguish between the roles of DeviceProperties and the SSDT.
