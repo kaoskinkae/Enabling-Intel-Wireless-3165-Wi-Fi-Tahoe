@@ -42,6 +42,7 @@ Prerequisites  and Setup:
 
 <img width="449" height="74" alt="Captura de pantalla 2026-04-15 a las 9 27 51" src="https://github.com/user-attachments/assets/aa83d592-f3a6-4d8f-a286-66ea6ad24ef1" />
 
+
  
 3.) csr-active-config = 03080000
 
@@ -49,9 +50,12 @@ Prerequisites  and Setup:
 <img width="1185" height="197" alt="Captura de pantalla 2026-04-15 a las 9 26 57" src="https://github.com/user-attachments/assets/a9582399-b9cd-4f68-b78f-8110d895366b" />
 
 
+
+
 4.) AppleVTD disabled, i.e. DisableIOMapper=true
 
 <img width="190" height="30" alt="Captura de pantalla 2026-04-15 a las 9 27 39" src="https://github.com/user-attachments/assets/0e647006-c04d-4ab2-b89a-c13090527c77" />
+
 
 
  
