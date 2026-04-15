@@ -102,3 +102,5 @@ It is also important to note:
 
 -> The PCI DeviceProperties path is also not universal and must match the actual hardware layout (Hackintool/PCI)
 If either path is incorrect, the setup will not work as expected.
+
+Thanks to kgp of InsanelyMac
