@@ -118,7 +118,7 @@ In summary:
 
 -> DeviceProperties → performs the Broadcom spoofing (functional requirement)
 
--> SSDT → injects ARPT and ensures proper integration and representation (structural requirement)
+-> SSDT → injects *ARPT* and ensures proper integration and representation (structural requirement)
 Both components are required for a clean and working setup.
 
 It is also important to note:
