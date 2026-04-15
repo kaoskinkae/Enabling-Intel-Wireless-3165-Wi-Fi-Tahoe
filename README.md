@@ -112,7 +112,7 @@ Feel free to test it and let me know how it works on your system. 👍
 For everybody with Intel W-Fi chipsets: Explanation of the SSDT and DeviceProperties setup
 In this setup, it is important to clearly distinguish between the roles of DeviceProperties and the SSDT.
 The actual “conversion” to a Broadcom-compatible device is performed via DeviceProperties (Broadcom spoofing). This is the key mechanism that allows macOS to properly attach and initialize the Wi-Fi stack.
-The SSDT serves a different purpose. It injects an ARPT device at the correct ACPI path of the Wi-Fi controller and provides macOS-specific properties via _DSM (such as built-in, AAPL,slot-name, device_type, model, and name). This ensures that the device is properly represented within ACPI and IORegistry.
+The SSDT serves a different purpose. It injects an **ARPT** device at the correct ACPI path of the Wi-Fi controller and provides macOS-specific properties via **_DSM** (such as built-in, AAPL,slot-name, device_type, model, and name). This ensures that the device is properly represented within ACPI and IORegistry.
 In summary:
 
 -> DeviceProperties → performs the Broadcom spoofing (functional requirement)
