@@ -11,7 +11,7 @@
 <img width="514" height="298" alt="Captura de pantalla 2026-04-15 a las 10 08 07" src="https://github.com/user-attachments/assets/b73ce781-9715-4633-a0b7-c6c1920fbbb0" />
 
 
-*https://github.com/kgp-macPro/OCLP-lzhoang2801-amfipassbeta*
+**https://github.com/kgp-macPro/OCLP-lzhoang2801-amfipassbeta**
 
 This thread discusses the experimental OCLP 3.0.0 Nightly fork by lzhoang2801 (development currently on hold), restoring the following functionality on macOS Tahoe 26.x:
 
@@ -87,9 +87,9 @@ Prerequisites  and Setup:
 
 16 Tahoa Minkernel 25.0.0. MaxKernel 25.99.99
 
-https://github.com/openintelwireless/itlwm/releases
+**https://github.com/openintelwireless/itlwm/releases**
 
-https://github.com/dortania/OpenCore-Legacy-Patcher/tree/main/payloads/Kexts/Wifi
+**https://github.com/dortania/OpenCore-Legacy-Patcher/tree/main/payloads/Kexts/Wifi**
 
 ## All settings above (1 to 5) can also be gathered from my EFI-Folder distribution:
 
