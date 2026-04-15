@@ -32,6 +32,7 @@ Credits
 - InsanelyMac community
  
 Prerequisites  and Setup:
+
  
 1.) For OCLP 3.0.0 Nightly (amfipassbeta variant) enable AMFIPass.kext and use boot argument "-amfipassbeta".
      For OCLP 3.0.0 Nightly enable or disable AMFIPass.kext but always use boot argument "amfi=0x80".
