@@ -87,6 +87,7 @@ Prerequisites  and Setup:
 
 16 Tahoa Minkernel 25.0.0. MaxKernel 25.99.99
 
+https://github.com/openintelwireless/itlwm/releases
 
 
 ## All settings above (1 to 5) can also be gathered from my EFI-Folder distribution:
