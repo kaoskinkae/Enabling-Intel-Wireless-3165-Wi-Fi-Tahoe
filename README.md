@@ -89,9 +89,9 @@ Prerequisites  and Setup:
 
 
 
-#All settings above (1 to 5) can also be gathered from my EFI-Folder distribution:
+## All settings above (1 to 5) can also be gathered from my EFI-Folder distribution:
 
-The Zip-file contains three EFI-Folders: 
+### The Zip-file contains three EFI-Folders: 
 
 1.) EFI-KGP-public-v.1.1.5-BCMC 
 
