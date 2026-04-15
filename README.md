@@ -3,7 +3,7 @@
 | Pavilion HP2B47 |  i5-6400 CPU @ 3.30GHz Skylake | Intel HD Grafic 530 | imac 17.1  |OpenCore 1.0.7 
 | SSD macOS 26 Tahoe | Adapter PCIe 4,0x16 a M.2 4xNVME SomnAmbulist 250G macOS Tahoe beta | Adapter Netac NVME SSD 480 GB Windows 11 25h2 | HDD SATA 3 1T DATE |  Wireless 3165 / BCM_4350C2 
 
-The tests have been successfully performed on this equipment; my guides are always tested before being published.
+**The tests have been successfully performed on this equipment; my guides are always tested before being published.**
 
 
 <img width="881" height="629" alt="Captura de pantalla 2026-04-15 a las 10 07 32" src="https://github.com/user-attachments/assets/ac58604a-8d15-4fbd-9705-4cd6f9abac03" />
