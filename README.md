@@ -47,8 +47,7 @@ Prerequisites  and Setup:
 3.) csr-active-config = 03080000
 
 
-<img width="1185" height="197" alt="Captura de pantalla 2026-04-15 a las 9 26 57" src="https://github.com/user-attachments/assets/a9582399-b9cd-4f68-b78f-8110d895366b" />
-
+<img width="855" height="142" alt="Captura de pantalla 2026-04-15 a las 9 27 29" src="https://github.com/user-attachments/assets/0b708590-798d-4204-b8d7-520688493d1d" />
 
 
 
@@ -61,7 +60,17 @@ Prerequisites  and Setup:
  
 5.) Same com.apple.iokit.IOSkywalkFamily replacement like under Sequoia
 
- 
+
+
+ <img width="1118" height="98" alt="Captura de pantalla 2026-04-15 a las 9 27 18" src="https://github.com/user-attachments/assets/0e69d9f6-4d14-4dd8-9d9f-ce7ea2a6367d" />
+
+
+ <img width="1184" height="133" alt="Captura de pantalla 2026-04-15 a las 9 31 34" src="https://github.com/user-attachments/assets/034a9b6a-81ca-49a6-b92f-570e186487a4" />
+
+ <img width="1185" height="197" alt="Captura de pantalla 2026-04-15 a las 9 26 57" src="https://github.com/user-attachments/assets/05607768-c9b4-48fa-880e-f69a0085c1dd" />
+
+
+
 
 All settings above (1 to 5) can also be gathered from my EFI-Folder distribution:
 
