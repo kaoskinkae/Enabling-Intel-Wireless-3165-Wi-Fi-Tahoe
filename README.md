@@ -121,6 +121,8 @@ In summary:
 -> SSDT → injects *ARPT* and ensures proper integration and representation (structural requirement)
 Both components are required for a clean and working setup.
 
+##SSDT-PCI0-RP05-ARPT.aml##
+
 It is also important to note:
 
 -> The ACPI path is not universal and must be adapted to the individual system (IOREGExplorer)
