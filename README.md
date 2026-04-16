@@ -127,7 +127,8 @@ It is also important to note:
 
 -> The ACPI path is not universal and must be adapted to the individual system (IOREGExplorer)
 
-<img width="865" height="146" alt="Captura de pantalla 2026-04-15 a las 10 58 45" src="https://github.com/user-attachments/assets/36a5352a-e49d-4f56-ab63-a701c88aad0c" />
+<img width="724" height="375" alt="Captura de pantalla 2026-04-16 a las 10 16 13" src="https://github.com/user-attachments/assets/9d49e422-8c8b-40dd-9532-8302e1f9e846" />
+
 
 -> The PCI DeviceProperties path is also not universal and must match the actual hardware layout (Hackintool/PCI)
 If either path is incorrect, the setup will not work as expected.
