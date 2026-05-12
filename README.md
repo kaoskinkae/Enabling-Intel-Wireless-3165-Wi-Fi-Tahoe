@@ -35,12 +35,13 @@ This thread discusses the experimental OCLP 3.0.0 Nightly fork by lzhoang2801 (d
 The fork is not an official upstream OCLP release and is not affiliated with Dortania
 
 Credits
-- Dortania OCLP Team
-- lzhoang2801
-- laobamac_yyds
-- YBronst (MakAsrock)
-- badbrain
-- InsanelyMac community
+
+Dortania OCLP Team (development)
+lzhoang2801 (original Tahoe fork)
+kgp (preservation, maintenance, AMFIPass integration, AppleHDA restoration, testing and documentation)
+laobamac_yyds (amfipassbeta PatcherSupportPkg)
+InsanelyMac community
+tonymacx86 community (mirror thread)
  
 Prerequisites  and Setup:
 
@@ -136,11 +137,3 @@ If either path is incorrect, the setup will not work as expected.
 <img width="225" height="80" alt="Captura de pantalla 2026-04-15 a las 10 42 51" src="https://github.com/user-attachments/assets/cfc9344f-50ee-4c6d-a8b6-0daa92371f0f" />
 
 
-Credits
-
-Dortania OCLP Team (development)
-lzhoang2801 (original Tahoe fork)
-kgp (preservation, maintenance, AMFIPass integration, AppleHDA restoration, testing and documentation)
-laobamac_yyds (amfipassbeta PatcherSupportPkg)
-InsanelyMac community
-tonymacx86 community (mirror thread)
