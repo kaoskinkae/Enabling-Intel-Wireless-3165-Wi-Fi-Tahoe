@@ -39,11 +39,17 @@ The fork is not an official upstream OCLP release and is not affiliated with Dor
 **Credits**
 
 Dortania OCLP Team (development)
+
 lzhoang2801 (original Tahoe fork)
+
 kgp (preservation, maintenance, AMFIPass integration, AppleHDA restoration, testing and documentation)
+
 laobamac_yyds (amfipassbeta PatcherSupportPkg)
+
 InsanelyMac community
+
 tonymacx86 community (mirror thread)
+
 
 ------------------------------------
  
