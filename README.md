@@ -136,4 +136,7 @@ If either path is incorrect, the setup will not work as expected.
 
 <img width="225" height="80" alt="Captura de pantalla 2026-04-15 a las 10 42 51" src="https://github.com/user-attachments/assets/cfc9344f-50ee-4c6d-a8b6-0daa92371f0f" />
 
+Special thanks to:
+Kgo
+InsanelyMac
 
