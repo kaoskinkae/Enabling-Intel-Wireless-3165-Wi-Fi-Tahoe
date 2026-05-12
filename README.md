@@ -34,7 +34,9 @@ This thread discusses the experimental OCLP 3.0.0 Nightly fork by lzhoang2801 (d
 
 The fork is not an official upstream OCLP release and is not affiliated with Dortania
 
-Credits
+--------------------------
+
+**Credits**
 
 Dortania OCLP Team (development)
 lzhoang2801 (original Tahoe fork)
@@ -42,7 +44,9 @@ kgp (preservation, maintenance, AMFIPass integration, AppleHDA restoration, test
 laobamac_yyds (amfipassbeta PatcherSupportPkg)
 InsanelyMac community
 tonymacx86 community (mirror thread)
- 
+
+------------------------------------
+ 
 Prerequisites  and Setup:
 
  
